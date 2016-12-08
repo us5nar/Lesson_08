@@ -8,9 +8,11 @@ namespace LitleJarvis
 {
     abstract class Command:ICommand
     {
+        public string InputString;
         public string Caption;
         public string Usage;
-        abstract public void Action(string UserInput);
-        abstract public bool CheckInCommand(string UserInput);
+        //private string inptString;
+        abstract public void Action();
+        abstract public bool CheckInCommand();
     }
 }

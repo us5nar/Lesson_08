@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace LitleJarvis
 {
-    interface ICommand
+    class exeCommand
     {
-        bool CheckInCommand();
-        void Action();
     }
 }

@@ -1,1 +1,2 @@
 D:\projects\LitleJarvis\LitleJarvis\bin\Debug\LitleJarvis.exe.config
+D:\projects\Lesson_08\LitleJarvis\LitleJarvis\bin\Debug\LitleJarvis.exe.config
